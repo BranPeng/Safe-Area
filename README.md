@@ -27,5 +27,6 @@ UIApplication.sharedApplication.statusBarFrame.size.height
 
 // 底部宏  
 #define SafeAreaBottomHeight (kScreenHeight == 812.0 ? 34 : 0)  
+
 #define SafeAreaTopHeight (kScreenHeight == 812.0 ? 88 : 64)  
 ```
